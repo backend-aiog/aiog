@@ -2,6 +2,14 @@
     "data": [
         {
             "gametype": "html5",
+            "imageurl": "https://img.gamemonetize.com/kqiq8sp9v4w84sa9yay4xq92soxd2p8m/512x384.jpg",
+            "gamename": "Online Strike Assault",
+            "gameurl": "https://html5.gamemonetize.co/kqiq8sp9v4w84sa9yay4xq92soxd2p8m/",
+            "orientation": true,
+            "category": "Multiplayer"
+        },
+        {
+            "gametype": "html5",
             "imageurl": "https://img.cdn.famobi.com/portal/html5games/images/tmp/OmNomRunTeaser.jpg?v=0.2-a19540c3",
             "gamename": "Om Nom Run",
             "gameurl": "https://play.famobi.com/wrapper/om-nom-run/A1000-10",
@@ -68,7 +76,7 @@
             "gametype": "html5",
             "imageurl": "https://img.cdn.famobi.com/portal/html5games/images/tmp/BubbleWoodsTeaser.jpg?v=0.2-a19540c3",
             "gamename": "Bubble Woods",
-            "gameurl": "https://play.famobi.com/wrapper/moto-x3m-pool-party/A1000-10",
+            "gameurl": "https://play.famobi.com/wrapper/bubble-woods/A1000-10",
             "orientation": false,
             "category": "Html5"
         },
@@ -186,15 +194,7 @@
         },
         {
             "gametype": "pk",
-            "imageurl": "https://img.cdn.famobi.com/portal/html5games/images/tmp/TableTennis_WorldTour_Teaser.jpg?v=0.2-2821569b",
-            "gameurl": "https://play.famobi.com/wrapper/table-tennis-world-tour/A1000-10",
-            "gamename": "Table Tennis World Tour",
-            "orientation": false,
-            "category": "Simulation"
-        },
-        {
-            "gametype": "pk",
-            "imageurl": "hhttps://img.cdn.famobi.com/portal/html5games/images/tmp/PeetSneakTeaser.jpg?v=0.2-7f3edcba",
+            "imageurl": "https://img.cdn.famobi.com/portal/html5games/images/tmp/PeetSneakTeaser.jpg?v=0.2-7f3edcba",
             "gameurl": "https://play.famobi.com/wrapper/peet-sneak/A1000-10",
             "gamename": "Peet Sneak",
             "orientation": false,
@@ -226,7 +226,7 @@
         },
         {
             "gametype": "pk",
-            "imageurl": "htthttps://img.cdn.famobi.com/portal/html5games/images/tmp/BlockPainterTeaser.jpg?v=0.2-7f3edcba",
+            "imageurl": "https://img.cdn.famobi.com/portal/html5games/images/tmp/BlockPainterTeaser.jpg?v=0.2-7f3edcba",
             "gameurl": "https://play.famobi.com/wrapper/block-painter/A1000-10",
             "gamename": "Block Painter",
             "orientation": false,
