@@ -1,6 +1,206 @@
 {
     "data": [
         {
+            "gametype": "gamemonetize",
+            "imageurl": "https://img.gamemonetize.com/6062dor3v74npkm68ie6i10w5hwx1avy/512x384.jpg",
+            "gamename": "Kawaii Realm Adventure",
+            "gameurl": "https://html5.gamemonetize.com/6062dor3v74npkm68ie6i10w5hwx1avy/",
+            "orientation": true,
+            "category": "Girls"
+        },
+        {
+            "gametype": "gamemonetize",
+            "imageurl": "https://img.gamemonetize.com/z46qtg5ytve31bpfgec3x2b97rk1ze2f/512x384.jpg",
+            "gamename": "Snake And Apple",
+            "gameurl": "https://html5.gamemonetize.com/z46qtg5ytve31bpfgec3x2b97rk1ze2f/",
+            "orientation": false,
+            "category": "Puzzle"
+        },
+        {
+            "gametype": "gamemonetize",
+            "imageurl": "https://img.gamemonetize.com/j4ga90sq55bmo0dbilo1wbm321rqneyn/512x384.jpg",
+            "gamename": "Merging weapons",
+            "gameurl": "https://html5.gamemonetize.com/j4ga90sq55bmo0dbilo1wbm321rqneyn/",
+            "orientation": false,
+            "category": "Arcade"
+        },
+        {
+            "gametype": "gamemonetize",
+            "imageurl": "https://img.gamemonetize.com/c83zcenjgvhqeq41q50vvwuwespyp7r8/512x384.jpg",
+            "gamename": "Magic Jigsaw Puzzles",
+            "gameurl": "https://html5.gamemonetize.com/c83zcenjgvhqeq41q50vvwuwespyp7r8/",
+            "orientation": false,
+            "category": "Puzzle"
+        },
+        {
+            "gametype": "gamemonetize",
+            "imageurl": "https://img.gamemonetize.com/isuj52a72y7ju4j2g6ohjb2dj5aezh5i/512x384.jpg",
+            "gamename": "Classic Sudoku Puzzle",
+            "gameurl": "https://html5.gamemonetize.com/isuj52a72y7ju4j2g6ohjb2dj5aezh5i/",
+            "orientation": false,
+            "category": "Puzzle"
+        },
+        {
+            "gametype": "gamemonetize",
+            "imageurl": "https://img.gamemonetize.com/jgpkm367gzxrm533kfue6n4yvi346l8w/512x384.jpg",
+            "gamename": "Butterfly Jigsaw Puzzle",
+            "gameurl": "https://html5.gamemonetize.com/jgpkm367gzxrm533kfue6n4yvi346l8w/",
+            "orientation": false,
+            "category": "Puzzle"
+        },
+        {
+            "gametype": "gamemonetize",
+            "imageurl": "https://img.gamemonetize.com/jzugp04kyxpopjazvt8zq6egfy30g5ov/512x384.jpg",
+            "gamename": "BrotMax 2 Player",
+            "gameurl": "https://html5.gamemonetize.com/jzugp04kyxpopjazvt8zq6egfy30g5ov/",
+            "orientation": true,
+            "category": "Adventure"
+        },
+        {
+            "gametype": "gamemonetize",
+            "imageurl": "https://img.gamemonetize.com/s1xar3ktztl2vbg2n6l46q2zipxt9pi6/512x384.jpg",
+            "gamename": "Frozen Winter Mania",
+            "gameurl": "https://html5.gamemonetize.com/s1xar3ktztl2vbg2n6l46q2zipxt9pi6/",
+            "orientation": false,
+            "category": "Puzzle"
+        },
+        {
+            "gametype": "gamemonetize",
+            "imageurl": "https://img.gamemonetize.com/t2zpam75cbegwtw1kvcj8y6orqknkt2v/512x384.jpg",
+            "gamename": "Hidden Object Search",
+            "gameurl": "https://html5.gamemonetize.com/t2zpam75cbegwtw1kvcj8y6orqknkt2v/",
+            "orientation": true,
+            "category": "Hypercasual"
+        },
+        {
+            "gametype": "gamemonetize",
+            "imageurl": "https://img.gamemonetize.com/nrkpsbfble018av4kcy186wy2h778rw7/512x384.jpg",
+            "gamename": "CircleFly",
+            "gameurl": "https://html5.gamemonetize.com/nrkpsbfble018av4kcy186wy2h778rw7/",
+            "orientation": false,
+            "category": "Arcade"
+        },
+        {
+            "gametype": "gamemonetize",
+            "imageurl": "https://img.gamemonetize.com/6aci346224wl1kjxyc4oo681k4wxylhl/512x384.jpg",
+            "gamename": "Snake Train Zone",
+            "gameurl": "https://html5.gamemonetize.com/6aci346224wl1kjxyc4oo681k4wxylhl/",
+            "orientation": false,
+            "category": "Shooting"
+        },
+        {
+            "gametype": "gamemonetize",
+            "imageurl": "https://img.gamemonetize.com/3xse34phrgljynh51benwcuglaqf4v92/512x384.jpg",
+            "gamename": "Snake Color Race",
+            "gameurl": "https://html5.gamemonetize.com/3xse34phrgljynh51benwcuglaqf4v92/",
+            "orientation": false,
+            "category": "Racing"
+        },
+        {
+            "gametype": "gamemonetize",
+            "imageurl": "https://img.gamemonetize.com/2147qixynu97hbso7smww3xyoxeebudz/512x384.jpg",
+            "gamename": "Neon square Rush",
+            "gameurl": "https://html5.gamemonetize.com/2147qixynu97hbso7smww3xyoxeebudz/",
+            "orientation": false,
+            "category": "Hypercasual"
+        },
+        {
+            "gametype": "gamemonetize",
+            "imageurl": "https://img.gamemonetize.com/bqp53yu8uy3teeid9eo99u70utrjcj1w/512x384.jpg",
+            "gamename": "Thief Escapes",
+            "gameurl": "https://html5.gamemonetize.com/bqp53yu8uy3teeid9eo99u70utrjcj1w/",
+            "orientation": false,
+            "category": "Hypercasual"
+        },
+        {
+            "gametype": "gamemonetize",
+            "imageurl": "https://img.gamemonetize.com/v6n37gn8393blfz7dmoeublre91e9zu5/512x384.jpg",
+            "gamename": "Criatures Defense",
+            "gameurl": "https://html5.gamemonetize.com/v6n37gn8393blfz7dmoeublre91e9zu5/",
+            "orientation": true,
+            "category": "Shooting"
+        },
+        {
+            "gametype": "gamemonetize",
+            "imageurl": "https://img.gamemonetize.com/1h0rpfwt512uknlm2so880g153siow4p/512x384.jpg",
+            "gamename": "Jingle Jetpack",
+            "gameurl": "https://html5.gamemonetize.com/1h0rpfwt512uknlm2so880g153siow4p/",
+            "orientation": true,
+            "category": "Adventure"
+        },
+        {
+            "gametype": "gamemonetize",
+            "imageurl": "https://img.gamemonetize.com/f471e4j1zv654kbamb500101omqd11hf/512x384.jpg",
+            "gamename": "KillMaster Secret Agent",
+            "gameurl": "https://html5.gamemonetize.com/f471e4j1zv654kbamb500101omqd11hf/",
+            "orientation": false,
+            "category": "Shooting"
+        },
+        {
+            "gametype": "gamemonetize",
+            "imageurl": "https://img.gamemonetize.com/wsa2jm6a1pphz0cn8phkyv4e5maukuob/512x384.jpg",
+            "gamename": "Fishy trick",
+            "gameurl": "https://html5.gamemonetize.com/wsa2jm6a1pphz0cn8phkyv4e5maukuob/",
+            "orientation": false,
+            "category": "Clicker"
+        },
+        {
+            "gametype": "gamemonetize",
+            "imageurl": "https://img.gamemonetize.com/1pmkqzfdiaku4jk7bzalhaqj8muvtclv/512x384.jpg",
+            "gamename": "Super Mario Run 2",
+            "gameurl": "https://html5.gamemonetize.com/1pmkqzfdiaku4jk7bzalhaqj8muvtclv/",
+            "orientation": true,
+            "category": "Adventure"
+        },
+        {
+            "gametype": "gamemonetize",
+            "imageurl": "https://img.gamemonetize.com/u5nswfcazjpe3ikna3asjb7r4ocy9nl4/512x384.jpg",
+            "gamename": "2 Minutes to Escape",
+            "gameurl": "https://html5.gamemonetize.com/u5nswfcazjpe3ikna3asjb7r4ocy9nl4/",
+            "orientation": false,
+            "category": "Arcade"
+        },
+        {
+            "gametype": "gamemonetize",
+            "imageurl": "https://img.gamemonetize.com/uyn5n0xbo8pmc7n3yup2q3btgn6wq6li/512x384.jpg",
+            "gamename": "Poppy Dungeons",
+            "gameurl": "https://html5.gamemonetize.com/uyn5n0xbo8pmc7n3yup2q3btgn6wq6li/",
+            "orientation": true,
+            "category": "Shooting"
+        },
+        {
+            "gametype": "gamemonetize",
+            "imageurl": "https://img.gamemonetize.com/g1ut0m8pmc3fb0nznardzk2xhc4z3pti/512x384.jpg",
+            "gamename": "Yasin Cengiz Game",
+            "gameurl": "https://html5.gamemonetize.com/g1ut0m8pmc3fb0nznardzk2xhc4z3pti/",
+            "orientation": true,
+            "category": "Hypercasual"
+        },
+        {
+            "gametype": "gamemonetize",
+            "imageurl": "https://img.gamemonetize.com/qvk82anhipglicd9u9lbsppw3psyzwyq/512x384.jpg",
+            "gamename": "Siren Head SCP-6789: The Hunt Continues",
+            "gameurl": "https://html5.gamemonetize.com/qvk82anhipglicd9u9lbsppw3psyzwyq/",
+            "orientation": true,
+            "category": "Adventure"
+        },
+        {
+            "gametype": "gamemonetize",
+            "imageurl": "https://img.gamemonetize.com/ag8hqc5musjuub3su73s7sg5zryrx3b7/512x384.jpg",
+            "gamename": "Among Dungeon",
+            "gameurl": "https://html5.gamemonetize.com/ag8hqc5musjuub3su73s7sg5zryrx3b7/",
+            "orientation": true,
+            "category": "Hypercasual"
+        },
+        {
+            "gametype": "gamemonetize",
+            "imageurl": "https://img.gamemonetize.com/dwvcte397don0y485kcpytqjy9iw2qef/512x384.jpg",
+            "gamename": "Zombie Tsunami Online",
+            "gameurl": "https://html5.gamemonetize.com/dwvcte397don0y485kcpytqjy9iw2qef/",
+            "orientation": true,
+            "category": "Adventure"
+        },
+        {
             "gametype": "html5",
             "imageurl": "https://img.gamemonetize.com/kqiq8sp9v4w84sa9yay4xq92soxd2p8m/512x384.jpg",
             "gamename": "Online Strike Assault",
