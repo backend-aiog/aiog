@@ -201,6 +201,406 @@
             "category": "Adventure"
         },
         {
+            "gametype": "gamemonetize",
+            "imageurl": "https://img.gamemonetize.com/jhws8h7joexxkyaszwhx2rdgf9xatnrg/512x384.jpg",
+            "gamename": "Eggys Big Adventure",
+            "gameurl": "https://html5.gamemonetize.com/jhws8h7joexxkyaszwhx2rdgf9xatnrg/",
+            "orientation": true,
+            "category": "Adventure"
+        },
+        {
+            "gametype": "gamemonetize",
+            "imageurl": "https://img.gamemonetize.com/gadirbzmrnq7ot8p7zpw9ftc7guut4ka/512x384.jpg",
+            "gamename": "1010 Easter Tetriz",
+            "gameurl": "https://html5.gamemonetize.com/gadirbzmrnq7ot8p7zpw9ftc7guut4ka/",
+            "orientation": true,
+            "category": "Puzzle"
+        },
+        {
+            "gametype": "gamemonetize",
+            "imageurl": "https://img.gamemonetize.com/kgmcalhngfolndut8zakq6r3dj3gitk3/512x384.jpg",
+            "gamename": "Chick Slot",
+            "gameurl": "https://html5.gamemonetize.com/kgmcalhngfolndut8zakq6r3dj3gitk3/",
+            "orientation": true,
+            "category": "Puzzle"
+        },
+        {
+            "gametype": "gamemonetize",
+            "imageurl": "https://img.gamemonetize.com/cj4k9juah8wk7fjgilhkgyxh8g3emtfz/512x384.jpg",
+            "gamename": "Pop The Eggs",
+            "gameurl": "https://html5.gamemonetize.com/cj4k9juah8wk7fjgilhkgyxh8g3emtfz/",
+            "orientation": false,
+            "category": "Hypercasual"
+        },
+        {
+            "gametype": "gamemonetize",
+            "imageurl": "https://img.gamemonetize.com/xuk67hqi6b5r7dyh6g72hkwk4n8ux8km/512x384.jpg",
+            "gamename": "Eggbot vs Zombies",
+            "gameurl": "https://html5.gamemonetize.com/xuk67hqi6b5r7dyh6g72hkwk4n8ux8km/",
+            "orientation": true,
+            "category": "Shooting"
+        },
+        {
+            "gametype": "gamemonetize",
+            "imageurl": "https://img.gamemonetize.com/m7b52fhknxgjprrcsj58d6w0hkg6gmx2/512x384.jpg",
+            "gamename": "Happy Easter Puzzle",
+            "gameurl": "https://html5.gamemonetize.com/m7b52fhknxgjprrcsj58d6w0hkg6gmx2/",
+            "orientation": true,
+            "category": "Puzzle"
+        },
+        {
+            "gametype": "gamemonetize",
+            "imageurl": "https://img.gamemonetize.com/qu2ce3y8trquoqemzvkkxr35aeunzc3p/512x384.jpg",
+            "gamename": "Time of  Adventure Easter Holiday",
+            "gameurl": "https://html5.gamemonetize.com/qu2ce3y8trquoqemzvkkxr35aeunzc3p/",
+            "orientation": true,
+            "category": "Adventure"
+        },
+        {
+            "gametype": "gamemonetize",
+            "imageurl": "https://img.gamemonetize.com/9067az0vrp4f4at9227yrzi24xl3lovg/512x384.jpg",
+            "gamename": "Easter Board Puzzles",
+            "gameurl": "https://html5.gamemonetize.com/9067az0vrp4f4at9227yrzi24xl3lovg/",
+            "orientation": true,
+            "category": "Puzzle"
+        },
+        {
+            "gametype": "gamemonetize",
+            "imageurl": "https://img.gamemonetize.com/93j9r0qa9f1znpskoayb01b9umblg1ip/512x384.jpg",
+            "gamename": "Happy Rabbits Game",
+            "gameurl": "https://html5.gamemonetize.com/93j9r0qa9f1znpskoayb01b9umblg1ip/",
+            "orientation": false,
+            "category": "Puzzle"
+        },
+        {
+            "gametype": "gamemonetize",
+            "imageurl": "https://img.gamemonetize.com/dym3lu1zorwuz8a6b7vscr1vbjvzkz2y/512x384.jpg",
+            "gamename": "Chicken Love 1",
+            "gameurl": "https://html5.gamemonetize.com/dym3lu1zorwuz8a6b7vscr1vbjvzkz2y/",
+            "orientation": false,
+            "category": "Adventure"
+        },
+        {
+            "gametype": "gamemonetize",
+            "imageurl": "https://img.gamemonetize.com/4ottft5scnj0v3ltz0zn5a25sdcozzsi/512x384.jpg",
+            "gamename": "Ellie Easter Adventure",
+            "gameurl": "https://html5.gamemonetize.com/4ottft5scnj0v3ltz0zn5a25sdcozzsi/",
+            "orientation": false,
+            "category": "Girls"
+        },
+        {
+            "gametype": "gamemonetize",
+            "imageurl": "https://img.gamemonetize.com/jf8eoirfrqi4n4cdaxmtwqo9t05lorpl/512x384.jpg",
+            "gamename": "Egg Fry",
+            "gameurl": "https://html5.gamemonetize.com/4ottft5scnj0v3ltz0zn5a25sdcozzsi/",
+            "orientation": false,
+            "category": "Hypercasual"
+        },
+        {
+            "gametype": "gamemonetize",
+            "imageurl": "https://img.gamemonetize.com/n2i6wkl05emm6mg3i589nnxoaa9uivwx/512x384.jpg",
+            "gamename": "Twerk Rush",
+            "gameurl": "https://html5.gamemonetize.com/n2i6wkl05emm6mg3i589nnxoaa9uivwx/",
+            "orientation": false,
+            "category": "Arcade"
+        },
+        {
+            "gametype": "gamemonetize",
+            "imageurl": "https://img.gamemonetize.com/kfc9v33e6eh3e0iurinpfkfggmsoq9l4/512x384.jpg",
+            "gamename": "Dunk Challenge",
+            "gameurl": "https://html5.gamemonetize.com/kfc9v33e6eh3e0iurinpfkfggmsoq9l4/",
+            "orientation": false,
+            "category": "Sports"
+        },
+        {
+            "gametype": "gamemonetize",
+            "imageurl": "https://img.gamemonetize.com/08m6qjcrmx1i39qoxq0s3aoo8htlbv9t/512x384.jpg",
+            "gamename": "Bus Order 3D",
+            "gameurl": "https://html5.gamemonetize.com/08m6qjcrmx1i39qoxq0s3aoo8htlbv9t/",
+            "orientation": false,
+            "category": "Puzzle"
+        },
+        {
+            "gametype": "gamemonetize",
+            "imageurl": "https://img.gamemonetize.com/m7ufh9hkvg3th7jzhxldoezekpo0mvy8/512x384.jpg",
+            "gamename": "Rabbit Samurai",
+            "gameurl": "https://html5.gamemonetize.com/m7ufh9hkvg3th7jzhxldoezekpo0mvy8/",
+            "orientation": false,
+            "category": "Arcade"
+        },
+        {
+            "gametype": "gamemonetize",
+            "imageurl": "https://img.gamemonetize.com/sy2m9vrlnwoa34qzsq95lkqh0nrg6o1z/512x384.jpg",
+            "gamename": "Skibidi Jump",
+            "gameurl": "https://html5.gamemonetize.com/sy2m9vrlnwoa34qzsq95lkqh0nrg6o1z/",
+            "orientation": true,
+            "category": "Clicker"
+        },
+        {
+            "gametype": "gamemonetize",
+            "imageurl": "https://img.gamemonetize.com/urfu3kzie4tknhx87woix3jfchxd852n/512x384.jpg",
+            "gamename": "Urban Traffic Commander",
+            "gameurl": "https://html5.gamemonetize.com/urfu3kzie4tknhx87woix3jfchxd852n/",
+            "orientation": true,
+            "category": "Adventure"
+        },
+        {
+            "gametype": "gamemonetize",
+            "imageurl": "https://img.gamemonetize.com/mzhcqhok1b5whltst1sscbgd85ewzn2q/512x384.jpg",
+            "gamename": "Skibidi Elastic Head",
+            "gameurl": "https://html5.gamemonetize.com/mzhcqhok1b5whltst1sscbgd85ewzn2q/",
+            "orientation": true,
+            "category": "Adventure"
+        },
+        {
+            "gametype": "gamemonetize",
+            "imageurl": "https://img.gamemonetize.com/k7frsna2gk9xnlgf83wtzgbrejaich9e/512x384.jpg",
+            "gamename": "Peter Uncle Rescue",
+            "gameurl": "https://html5.gamemonetize.com/k7frsna2gk9xnlgf83wtzgbrejaich9e/",
+            "orientation": true,
+            "category": "Puzzle"
+        },
+        {
+            "gametype": "gamemonetize",
+            "imageurl": "https://img.gamemonetize.com/dluskvfd4fn1wu4dkukk4kg4ij27gcxq/512x384.jpg",
+            "gamename": "Pik Wip",
+            "gameurl": "https://html5.gamemonetize.com/dluskvfd4fn1wu4dkukk4kg4ij27gcxq/",
+            "orientation": false,
+            "category": "Multiplayer"
+        },
+        {
+            "gametype": "gamemonetize",
+            "imageurl": "https://img.gamemonetize.com/8wtom8jhlcwh16l3a2q1bzv20uvra2pq/512x384.jpg",
+            "gamename": "Epic Skibidi Toilet Clash part 1",
+            "gameurl": "https://html5.gamemonetize.com/8wtom8jhlcwh16l3a2q1bzv20uvra2pq/",
+            "orientation": false,
+            "category": "Adventure"
+        },
+        {
+            "gametype": "gamemonetize",
+            "imageurl": "https://img.gamemonetize.com/vi6o299s13k6zjmcutias0d9ftmov5uz/512x384.jpg",
+            "gamename": "Racing Car Escape",
+            "gameurl": "https://html5.gamemonetize.com/vi6o299s13k6zjmcutias0d9ftmov5uz/",
+            "orientation": true,
+            "category": "Puzzle"
+        },
+        {
+            "gametype": "gamemonetize",
+            "imageurl": "https://img.gamemonetize.com/ewai7lf13zkf5606qntpdhz41zopf6hx/512x384.jpg",
+            "gamename": "Lipstick Collector Run",
+            "gameurl": "https://html5.gamemonetize.com/ewai7lf13zkf5606qntpdhz41zopf6hx/",
+            "orientation": false,
+            "category": "Arcade"
+        },
+        {
+            "gametype": "gamemonetize",
+            "imageurl": "https://img.gamemonetize.com/a6d9kqfsjxbpdktw6p8j11z8bm776t8h/512x384.jpg",
+            "gamename": "Tom & Jerry Run",
+            "gameurl": "https://html5.gamemonetize.com/a6d9kqfsjxbpdktw6p8j11z8bm776t8h/",
+            "orientation": false,
+            "category": "Action"
+        },
+        {
+            "gametype": "gamemonetize",
+            "imageurl": "https://img.gamemonetize.com/6062dor3v74npkm68ie6i10w5hwx1avy/512x384.jpg",
+            "gamename": "Kawaii Realm Adventure",
+            "gameurl": "https://html5.gamemonetize.com/6062dor3v74npkm68ie6i10w5hwx1avy/",
+            "orientation": true,
+            "category": "Girls"
+        },
+        {
+            "gametype": "gamemonetize",
+            "imageurl": "https://img.gamemonetize.com/z46qtg5ytve31bpfgec3x2b97rk1ze2f/512x384.jpg",
+            "gamename": "Snake And Apple",
+            "gameurl": "https://html5.gamemonetize.com/z46qtg5ytve31bpfgec3x2b97rk1ze2f/",
+            "orientation": false,
+            "category": "Puzzle"
+        },
+        {
+            "gametype": "gamemonetize",
+            "imageurl": "https://img.gamemonetize.com/j4ga90sq55bmo0dbilo1wbm321rqneyn/512x384.jpg",
+            "gamename": "Merging weapons",
+            "gameurl": "https://html5.gamemonetize.com/j4ga90sq55bmo0dbilo1wbm321rqneyn/",
+            "orientation": false,
+            "category": "Arcade"
+        },
+        {
+            "gametype": "gamemonetize",
+            "imageurl": "https://img.gamemonetize.com/c83zcenjgvhqeq41q50vvwuwespyp7r8/512x384.jpg",
+            "gamename": "Magic Jigsaw Puzzles",
+            "gameurl": "https://html5.gamemonetize.com/c83zcenjgvhqeq41q50vvwuwespyp7r8/",
+            "orientation": false,
+            "category": "Puzzle"
+        },
+        {
+            "gametype": "gamemonetize",
+            "imageurl": "https://img.gamemonetize.com/isuj52a72y7ju4j2g6ohjb2dj5aezh5i/512x384.jpg",
+            "gamename": "Classic Sudoku Puzzle",
+            "gameurl": "https://html5.gamemonetize.com/isuj52a72y7ju4j2g6ohjb2dj5aezh5i/",
+            "orientation": false,
+            "category": "Puzzle"
+        },
+        {
+            "gametype": "gamemonetize",
+            "imageurl": "https://img.gamemonetize.com/jgpkm367gzxrm533kfue6n4yvi346l8w/512x384.jpg",
+            "gamename": "Butterfly Jigsaw Puzzle",
+            "gameurl": "https://html5.gamemonetize.com/jgpkm367gzxrm533kfue6n4yvi346l8w/",
+            "orientation": false,
+            "category": "Puzzle"
+        },
+        {
+            "gametype": "gamemonetize",
+            "imageurl": "https://img.gamemonetize.com/jzugp04kyxpopjazvt8zq6egfy30g5ov/512x384.jpg",
+            "gamename": "BrotMax 2 Player",
+            "gameurl": "https://html5.gamemonetize.com/jzugp04kyxpopjazvt8zq6egfy30g5ov/",
+            "orientation": true,
+            "category": "Adventure"
+        },
+        {
+            "gametype": "gamemonetize",
+            "imageurl": "https://img.gamemonetize.com/s1xar3ktztl2vbg2n6l46q2zipxt9pi6/512x384.jpg",
+            "gamename": "Frozen Winter Mania",
+            "gameurl": "https://html5.gamemonetize.com/s1xar3ktztl2vbg2n6l46q2zipxt9pi6/",
+            "orientation": false,
+            "category": "Puzzle"
+        },
+        {
+            "gametype": "gamemonetize",
+            "imageurl": "https://img.gamemonetize.com/t2zpam75cbegwtw1kvcj8y6orqknkt2v/512x384.jpg",
+            "gamename": "Hidden Object Search",
+            "gameurl": "https://html5.gamemonetize.com/t2zpam75cbegwtw1kvcj8y6orqknkt2v/",
+            "orientation": true,
+            "category": "Hypercasual"
+        },
+        {
+            "gametype": "gamemonetize",
+            "imageurl": "https://img.gamemonetize.com/nrkpsbfble018av4kcy186wy2h778rw7/512x384.jpg",
+            "gamename": "CircleFly",
+            "gameurl": "https://html5.gamemonetize.com/nrkpsbfble018av4kcy186wy2h778rw7/",
+            "orientation": false,
+            "category": "Arcade"
+        },
+        {
+            "gametype": "gamemonetize",
+            "imageurl": "https://img.gamemonetize.com/6aci346224wl1kjxyc4oo681k4wxylhl/512x384.jpg",
+            "gamename": "Snake Train Zone",
+            "gameurl": "https://html5.gamemonetize.com/6aci346224wl1kjxyc4oo681k4wxylhl/",
+            "orientation": false,
+            "category": "Shooting"
+        },
+        {
+            "gametype": "gamemonetize",
+            "imageurl": "https://img.gamemonetize.com/3xse34phrgljynh51benwcuglaqf4v92/512x384.jpg",
+            "gamename": "Snake Color Race",
+            "gameurl": "https://html5.gamemonetize.com/3xse34phrgljynh51benwcuglaqf4v92/",
+            "orientation": false,
+            "category": "Racing"
+        },
+        {
+            "gametype": "gamemonetize",
+            "imageurl": "https://img.gamemonetize.com/2147qixynu97hbso7smww3xyoxeebudz/512x384.jpg",
+            "gamename": "Neon square Rush",
+            "gameurl": "https://html5.gamemonetize.com/2147qixynu97hbso7smww3xyoxeebudz/",
+            "orientation": false,
+            "category": "Hypercasual"
+        },
+        {
+            "gametype": "gamemonetize",
+            "imageurl": "https://img.gamemonetize.com/bqp53yu8uy3teeid9eo99u70utrjcj1w/512x384.jpg",
+            "gamename": "Thief Escapes",
+            "gameurl": "https://html5.gamemonetize.com/bqp53yu8uy3teeid9eo99u70utrjcj1w/",
+            "orientation": false,
+            "category": "Hypercasual"
+        },
+        {
+            "gametype": "gamemonetize",
+            "imageurl": "https://img.gamemonetize.com/v6n37gn8393blfz7dmoeublre91e9zu5/512x384.jpg",
+            "gamename": "Criatures Defense",
+            "gameurl": "https://html5.gamemonetize.com/v6n37gn8393blfz7dmoeublre91e9zu5/",
+            "orientation": true,
+            "category": "Shooting"
+        },
+        {
+            "gametype": "gamemonetize",
+            "imageurl": "https://img.gamemonetize.com/1h0rpfwt512uknlm2so880g153siow4p/512x384.jpg",
+            "gamename": "Jingle Jetpack",
+            "gameurl": "https://html5.gamemonetize.com/1h0rpfwt512uknlm2so880g153siow4p/",
+            "orientation": true,
+            "category": "Adventure"
+        },
+        {
+            "gametype": "gamemonetize",
+            "imageurl": "https://img.gamemonetize.com/f471e4j1zv654kbamb500101omqd11hf/512x384.jpg",
+            "gamename": "KillMaster Secret Agent",
+            "gameurl": "https://html5.gamemonetize.com/f471e4j1zv654kbamb500101omqd11hf/",
+            "orientation": false,
+            "category": "Shooting"
+        },
+        {
+            "gametype": "gamemonetize",
+            "imageurl": "https://img.gamemonetize.com/wsa2jm6a1pphz0cn8phkyv4e5maukuob/512x384.jpg",
+            "gamename": "Fishy trick",
+            "gameurl": "https://html5.gamemonetize.com/wsa2jm6a1pphz0cn8phkyv4e5maukuob/",
+            "orientation": false,
+            "category": "Clicker"
+        },
+        {
+            "gametype": "gamemonetize",
+            "imageurl": "https://img.gamemonetize.com/1pmkqzfdiaku4jk7bzalhaqj8muvtclv/512x384.jpg",
+            "gamename": "Super Mario Run 2",
+            "gameurl": "https://html5.gamemonetize.com/1pmkqzfdiaku4jk7bzalhaqj8muvtclv/",
+            "orientation": true,
+            "category": "Adventure"
+        },
+        {
+            "gametype": "gamemonetize",
+            "imageurl": "https://img.gamemonetize.com/u5nswfcazjpe3ikna3asjb7r4ocy9nl4/512x384.jpg",
+            "gamename": "2 Minutes to Escape",
+            "gameurl": "https://html5.gamemonetize.com/u5nswfcazjpe3ikna3asjb7r4ocy9nl4/",
+            "orientation": false,
+            "category": "Arcade"
+        },
+        {
+            "gametype": "gamemonetize",
+            "imageurl": "https://img.gamemonetize.com/uyn5n0xbo8pmc7n3yup2q3btgn6wq6li/512x384.jpg",
+            "gamename": "Poppy Dungeons",
+            "gameurl": "https://html5.gamemonetize.com/uyn5n0xbo8pmc7n3yup2q3btgn6wq6li/",
+            "orientation": true,
+            "category": "Shooting"
+        },
+        {
+            "gametype": "gamemonetize",
+            "imageurl": "https://img.gamemonetize.com/g1ut0m8pmc3fb0nznardzk2xhc4z3pti/512x384.jpg",
+            "gamename": "Yasin Cengiz Game",
+            "gameurl": "https://html5.gamemonetize.com/g1ut0m8pmc3fb0nznardzk2xhc4z3pti/",
+            "orientation": true,
+            "category": "Hypercasual"
+        },
+        {
+            "gametype": "gamemonetize",
+            "imageurl": "https://img.gamemonetize.com/qvk82anhipglicd9u9lbsppw3psyzwyq/512x384.jpg",
+            "gamename": "Siren Head SCP-6789: The Hunt Continues",
+            "gameurl": "https://html5.gamemonetize.com/qvk82anhipglicd9u9lbsppw3psyzwyq/",
+            "orientation": true,
+            "category": "Adventure"
+        },
+        {
+            "gametype": "gamemonetize",
+            "imageurl": "https://img.gamemonetize.com/ag8hqc5musjuub3su73s7sg5zryrx3b7/512x384.jpg",
+            "gamename": "Among Dungeon",
+            "gameurl": "https://html5.gamemonetize.com/ag8hqc5musjuub3su73s7sg5zryrx3b7/",
+            "orientation": true,
+            "category": "Hypercasual"
+        },
+        {
+            "gametype": "gamemonetize",
+            "imageurl": "https://img.gamemonetize.com/dwvcte397don0y485kcpytqjy9iw2qef/512x384.jpg",
+            "gamename": "Zombie Tsunami Online",
+            "gameurl": "https://html5.gamemonetize.com/dwvcte397don0y485kcpytqjy9iw2qef/",
+            "orientation": true,
+            "category": "Adventure"
+        },
+        {
             "gametype": "html5",
             "imageurl": "https://img.gamemonetize.com/kqiq8sp9v4w84sa9yay4xq92soxd2p8m/512x384.jpg",
             "gamename": "Online Strike Assault",
@@ -377,7 +777,7 @@
             "category": "Html5"
         },
         {
-            "gametype": "pk",
+            "gametype": "html5",
             "imageurl": "https://img.gamemonetize.com/ssem0jt7pvsapqm8ce9tt6oyf4029pu7/512x384.jpg",
             "gameurl": "https://html5.gamemonetize.co/ssem0jt7pvsapqm8ce9tt6oyf4029pu7",
             "gamename": "Car Stunt King",
@@ -385,7 +785,7 @@
             "category": "Action"
         },
         {
-            "gametype": "pk",
+            "gametype": "html5",
             "imageurl": "https://img.gamemonetize.com/ov40ro6ulovujr7mxljjm6kldhh47gsx/512x384.jpg",
             "gameurl": "https://html5.gamemonetize.co/ov40ro6ulovujr7mxljjm6kldhh47gsx/",
             "gamename": "Foam World",
@@ -393,7 +793,7 @@
             "category": "Arcade"
         },
         {
-            "gametype": "pk",
+            "gametype": "html5",
             "imageurl": "https://img.cdn.famobi.com/portal/html5games/images/tmp/PeetSneakTeaser.jpg?v=0.2-7f3edcba",
             "gameurl": "https://play.famobi.com/wrapper/peet-sneak/A1000-10",
             "gamename": "Peet Sneak",
@@ -401,7 +801,7 @@
             "category": "Simulation"
         },
         {
-            "gametype": "pk",
+            "gametype": "html5",
             "imageurl": "https://img.cdn.famobi.com/portal/html5games/images/tmp/AlienAttackTeaser.jpg?v=0.2-7f3edcba",
             "gameurl": "https://play.famobi.com/wrapper/alien-attack/A1000-10",
             "gamename": "Alien Attack",
@@ -409,7 +809,7 @@
             "category": "Simulation"
         },
         {
-            "gametype": "pk",
+            "gametype": "html5",
             "imageurl": "https://img.cdn.famobi.com/portal/html5games/images/tmp/CutTheRopeTeaser.jpg?v=0.2-7f3edcba",
             "gameurl": "https://play.famobi.com/wrapper/cut-the-rope/A1000-10",
             "gamename": "Cut The Rope",
@@ -417,7 +817,7 @@
             "category": "Simulation"
         },
         {
-            "gametype": "pk",
+            "gametype": "html5",
             "imageurl": "https://img.cdn.famobi.com/portal/html5games/images/tmp/Toilet_RunTeaser.jpg?v=0.2-7f3edcba",
             "gameurl": "https://play.famobi.com/wrapper/toilet-run/A1000-10",
             "gamename": "Toilet Run",
@@ -425,7 +825,7 @@
             "category": "Simulation"
         },
         {
-            "gametype": "pk",
+            "gametype": "html5",
             "imageurl": "https://img.cdn.famobi.com/portal/html5games/images/tmp/BlockPainterTeaser.jpg?v=0.2-7f3edcba",
             "gameurl": "https://play.famobi.com/wrapper/block-painter/A1000-10",
             "gamename": "Block Painter",
@@ -433,7 +833,7 @@
             "category": "Simulation"
         },
         {
-            "gametype": "pk",
+            "gametype": "html5",
             "imageurl": "https://img.cdn.famobi.com/portal/html5games/images/tmp/PairUp3dTeaser.jpg?v=0.2-7f3edcba",
             "gameurl": "https://play.famobi.com/wrapper/pair-up-3d/A1000-10",
             "gamename": "Pair Up 3Dr",
@@ -441,7 +841,7 @@
             "category": "Simulation"
         },
         {
-            "gametype": "pk",
+            "gametype": "html5",
             "imageurl": "https://img.cdn.famobi.com/portal/html5games/images/tmp/CowboySwingTeaser.jpg?v=0.2-7f3edcba",
             "gameurl": "https://play.famobi.com/wrapper/cowboy-swing/A1000-10",
             "gamename": "Cowboy Swing",
@@ -449,7 +849,7 @@
             "category": "Simulation"
         },
         {
-            "gametype": "pk",
+            "gametype": "html5",
             "imageurl": "https://img.cdn.famobi.com/portal/html5games/images/tmp/GoAroundTeaser.jpg?v=0.2-7f3edcba",
             "gameurl": "https://play.famobi.com/wrapper/go-around/A1000-10",
             "gamename": "Go Around",
@@ -457,7 +857,7 @@
             "category": "Simulation"
         },
         {
-            "gametype": "pk",
+            "gametype": "html5",
             "imageurl": "https://img.cdn.famobi.com/portal/html5games/images/tmp/GreenBallTeaser.jpg?v=0.2-7f3edcba",
             "gameurl": "https://play.famobi.com/wrapper/green-ball/A1000-10",
             "gamename": "Green Ball",
@@ -465,7 +865,7 @@
             "category": "Simulation"
         },
         {
-            "gametype": "pk",
+            "gametype": "html5",
             "imageurl": "https://img.cdn.famobi.com/portal/html5games/images/tmp/TwistyLinesTeaser.jpg?v=0.2-7f3edcba",
             "gameurl": "https://play.famobi.com/wrapper/twisty-lines/A1000-10",
             "gamename": "Twisty Lines",
@@ -473,7 +873,7 @@
             "category": "Casual"
         },
         {
-            "gametype": "pk",
+            "gametype": "html5",
             "imageurl": "https://img.cdn.famobi.com/portal/html5games/images/tmp/LawnMowerTeaser.jpg?v=0.2-7f3edcba",
             "gameurl": "https://play.famobi.com/wrapper/lawn-mower/A1000-10",
             "gamename": "Lawn Mower",
@@ -481,7 +881,7 @@
             "category": "Casual"
         },
         {
-            "gametype": "pk",
+            "gametype": "html5",
             "imageurl": "https://img.cdn.famobi.com/portal/html5games/images/tmp/TowerFallTeaser.jpg?v=0.2-7f3edcba",
             "gameurl": "https://play.famobi.com/wrapper/rising-squares/A1000-10",
             "gamename": "Tower Fall",
@@ -489,7 +889,7 @@
             "category": "Casual"
         },
         {
-            "gametype": "pk",
+            "gametype": "html5",
             "imageurl": "https://img.cdn.famobi.com/portal/html5games/images/tmp/EmojiFunTeaser.jpg?v=0.2-7f3edcba",
             "gameurl": "https://play.famobi.com/wrapper/emoji-fun/A1000-10",
             "gamename": "Emoji Fun",
@@ -497,7 +897,7 @@
             "category": "Casual"
         },
         {
-            "gametype": "pk",
+            "gametype": "html5",
             "imageurl": "https://img.cdn.famobi.com/portal/html5games/images/tmp/BottleFlipTeaser.jpg?v=0.2-7f3edcba",
             "gameurl": "https://play.famobi.com/wrapper/bottle-flip/A1000-10",
             "gamename": "Bottle Flip",
@@ -505,7 +905,7 @@
             "category": "Casual"
         },
         {
-            "gametype": "pk",
+            "gametype": "html5",
             "imageurl": "https://img.cdn.famobi.com/portal/html5games/images/tmp/SlimeRoadTeaser.jpg?v=0.2-7f3edcba",
             "gameurl": "https://play.famobi.com/wrapper/slime-road/A1000-10",
             "gamename": "Slime Road",
@@ -513,7 +913,7 @@
             "category": "Casual"
         },
         {
-            "gametype": "pk",
+            "gametype": "html5",
             "imageurl": "https://img.cdn.famobi.com/portal/html5games/images/tmp/PipePuzzleTeaser.jpg?v=0.2-7f3edcba",
             "gameurl": "https://play.famobi.com/wrapper/pipe-puzzle/A1000-10",
             "gamename": "Pipe Puzzle",
@@ -521,7 +921,7 @@
             "category": "Casual"
         },
         {
-            "gametype": "pk",
+            "gametype": "html5",
             "imageurl": "https://img.cdn.famobi.com/portal/html5games/images/tmp/FunnyFredTeaser.jpg?v=0.2-7f3edcba",
             "gameurl": "https://play.famobi.com/wrapper/funny-fred/A1000-10",
             "gamename": "Funny Fred",
@@ -529,7 +929,7 @@
             "category": "our special"
         },
         {
-            "gametype": "pk",
+            "gametype": "html5",
             "imageurl": "https://img.cdn.famobi.com/portal/html5games/images/tmp/BarbaraAndKentTeaser.jpg?v=0.2-7f3edcba",
             "gameurl": "https://play.famobi.com/wrapper/barbara-and-kent/A1000-10",
             "gamename": "Barbara & Kent",
@@ -537,7 +937,7 @@
             "category": "our special"
         },
         {
-            "gametype": "pk",
+            "gametype": "html5",
             "imageurl": "https://img.cdn.famobi.com/portal/html5games/images/tmp/SuperThrowerTeaser.jpg?v=0.2-7f3edcba",
             "gameurl": "https://play.famobi.com/wrapper/super-thrower/A1000-10",
             "gamename": "Super Thrower",
@@ -545,7 +945,7 @@
             "category": "our special"
         },
         {
-            "gametype": "pk",
+            "gametype": "html5",
             "imageurl": "https://img.cdn.famobi.com/portal/html5games/images/tmp/ParkingPanicTeaser.jpg?v=0.2-7f3edcba",
             "gameurl": "https://play.famobi.com/wrapper/parking-panic/A1000-10",
             "gamename": "Parking Panic",
@@ -553,7 +953,7 @@
             "category": "our special"
         },
         {
-            "gametype": "pk",
+            "gametype": "html5",
             "imageurl": "https://img.cdn.famobi.com/portal/html5games/images/tmp/FoodRushTeaser.jpg?v=0.2-7f3edcba",
             "gameurl": "https://play.famobi.com/wrapper/food-rush/A1000-10",
             "gamename": "Food Rush",
@@ -561,7 +961,7 @@
             "category": "our special"
         },
         {
-            "gametype": "pk",
+            "gametype": "html5",
             "imageurl": "https://img.cdn.famobi.com/portal/html5games/images/tmp/ParkingRushTeaser.jpg?v=0.2-7f3edcba",
             "gameurl": "https://play.famobi.com/wrapper/parking-rush/A1000-10",
             "gamename": "Parking Rush",
@@ -569,7 +969,7 @@
             "category": "our special"
         },
         {
-            "gametype": "pk",
+            "gametype": "html5",
             "imageurl": "https://img.cdn.famobi.com/portal/html5games/images/tmp/GiantAttackTeaser.jpg?v=0.2-7f3edcba",
             "gameurl": "https://play.famobi.com/wrapper/giant-attack/A1000-10",
             "gamename": "Giant Attack",
@@ -577,7 +977,7 @@
             "category": "our special"
         },
         {
-            "gametype": "pk",
+            "gametype": "html5",
             "imageurl": "https://img.cdn.famobi.com/portal/html5games/images/tmp/GunSpinTeaser.jpg?v=0.2-7f3edcba",
             "gameurl": "https://play.famobi.com/wrapper/gun-spin/A1000-10",
             "gamename": "Gun Spin",
@@ -585,7 +985,7 @@
             "category": "our special"
         },
         {
-            "gametype": "pk",
+            "gametype": "html5",
             "imageurl": "https://img.cdn.famobi.com/portal/html5games/images/tmp/CrazyHenLevelTeaser.jpg?v=0.2-7f3edcba",
             "gameurl": "https://play.famobi.com/wrapper/crazy-hen-level/A1000-10",
             "gamename": "Crazy Hen Level",
@@ -593,7 +993,7 @@
             "category": "our special"
         },
         {
-            "gametype": "pk",
+            "gametype": "html5",
             "imageurl": "https://img.cdn.famobi.com/portal/html5games/images/tmp/GoodShelvesTeaser.jpg?v=0.2-7f3edcba",
             "gameurl": "https://play.famobi.com/wrapper/good-shelves/A1000-10",
             "gamename": "Good Shelves",
